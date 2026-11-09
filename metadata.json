@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Estates - AI Real Estate Client Mailer",
+  "description": "AI-powered real estate client emailer for presenting curated off-plan developments and secondary market properties with personalized pitch generation and direct Gmail dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
